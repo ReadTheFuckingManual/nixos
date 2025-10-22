@@ -8,7 +8,7 @@ in {
             programs = {
                 git = {
                     enable    = true;
-                    userName  = "EkoEdyPurwanto";
+                    userName  = "ReadTheFuckingManual";
                     userEmail = "ekoedypurwantooke@gmail.com";
                 };
             };
